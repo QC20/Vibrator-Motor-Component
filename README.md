@@ -8,7 +8,6 @@ There are various methods to set up the vibration motor, and the choice of setup
 
 
 ## Introduction
-
 This repository hosts an Arduino sketch that showcases the control of a vibration motor using an Arduino board. The provided code enables you to create a customizable pulsating vibration effect, making it suitable for various applications, such as haptic feedback, alerts, or sensory devices.
 
 ## Getting Started
