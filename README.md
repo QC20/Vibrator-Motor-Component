@@ -21,7 +21,6 @@ To successfully utilize this code, you'll need the following components:
 - A breadboard (optional)
 
 ### Circuit Setup
-
 1. Connect the positive (VCC) terminal of the vibration motor to pin 3 on the Arduino board.
 
 2. Connect the ground (GND) terminal of the vibration motor to the ground (GND) pin on the Arduino board.
