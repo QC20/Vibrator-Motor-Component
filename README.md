@@ -40,7 +40,6 @@ To successfully utilize this code, you'll need the following components:
 Once the sketch is successfully uploaded, the vibration motor will pulsate with a one-second on and one-second off pattern. This can be adjusted by modifying the `delay` values within the code.
 
 ## Code Explanation
-
 The core logic of the sketch revolves around a loop that utilizes the `digitalWrite` function to control the vibration motor. Here's a snippet:
 
 ```cpp
