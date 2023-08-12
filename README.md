@@ -1,6 +1,11 @@
 # Vibration Motor Control
 
-![Vibration Motor](vibration_motor.jpg)
+## Setting Up the Vibration Motor
+
+There are various methods to set up the vibration motor, and the choice of setup depends on the specific requirements of your project, the intended use of the vibration motor, and your familiarity with working with electronics. The image below illustrates different approaches for connecting your vibration component to your Arduino (as well as other components). It's important to note that the code in this repository remains unaffected by the type of setup you choose.
+
+![Different-Motor-setups](https://github.com/QC20/Vibrator-Motor-Component/assets/36644388/e699a2ff-37a0-416a-a961-d8c9717eabc6)
+
 
 ## Introduction
 
