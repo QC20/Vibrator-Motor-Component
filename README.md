@@ -37,7 +37,6 @@ To successfully utilize this code, you'll need the following components:
 4. Click the "Upload" button to compile and upload the sketch to your Arduino board.
 
 ### Observing the Effect
-
 Once the sketch is successfully uploaded, the vibration motor will pulsate with a one-second on and one-second off pattern. This can be adjusted by modifying the `delay` values within the code.
 
 ## Code Explanation
