@@ -13,7 +13,6 @@ This repository hosts an Arduino sketch that showcases the control of a vibratio
 ## Getting Started
 
 ### Prerequisites
-
 To successfully utilize this code, you'll need the following components:
 
 - An Arduino board (e.g., Arduino Uno)
