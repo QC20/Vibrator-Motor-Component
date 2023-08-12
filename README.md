@@ -28,7 +28,6 @@ To successfully utilize this code, you'll need the following components:
 3. Make sure to provide power to the Arduino board, either through USB or an external power source.
 
 ### Uploading the Sketch
-
 1. Open the `vibration_motor_control.ino` file in the Arduino IDE.
 
 2. Select the appropriate Arduino board model under the "Tools" menu.
